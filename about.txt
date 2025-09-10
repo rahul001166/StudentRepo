@@ -1,0 +1,1 @@
+untracked files are files that exist in your working directory but are not currently being managed by Git's version control system. This means Git is aware of their presence but is not recording their changes or including them in any commits.
